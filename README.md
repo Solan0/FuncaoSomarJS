@@ -1,0 +1,2 @@
+# FuncaoSomarJS
+ JS
