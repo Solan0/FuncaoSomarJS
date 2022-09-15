@@ -1,4 +1,4 @@
 # FuncaoSomarJS
  JS.
 Olá, mundo !
-repositório criado para teste.
+repositório criado para teste..
